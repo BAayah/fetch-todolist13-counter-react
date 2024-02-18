@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-todolist13-counter-react/static/css/main.f9c34948.css",
+    "main.js": "/fetch-todolist13-counter-react/static/js/main.f8ae576c.js",
+    "index.html": "/fetch-todolist13-counter-react/index.html",
+    "main.f9c34948.css.map": "/fetch-todolist13-counter-react/static/css/main.f9c34948.css.map",
+    "main.f8ae576c.js.map": "/fetch-todolist13-counter-react/static/js/main.f8ae576c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c34948.css",
+    "static/js/main.f8ae576c.js"
+  ]
+}
